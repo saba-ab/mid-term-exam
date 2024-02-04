@@ -1,0 +1,6 @@
+[
+  { "total": "10", "category": "lunch", "id": 1, "date": 1707051142933 },
+  { "category": "lunch", "total": "10", "id": 3, "date": 1707051144762 },
+  { "category": "lunch", "total": "10", "id": 4, "date": 1707051145293 },
+  { "category": "lunch", "total": "10", "id": 5, "date": 1707051145814 }
+]
