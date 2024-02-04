@@ -1,0 +1,22 @@
+{
+  "name": "mid-term-exam",
+  "version": "1.0.0",
+  "description": "\"\"\"/\\* მსმენელი აწყობს expense manager cli აპლიკაციას, რომელსაც ექნება შემდეგი ფუნქციონალი ხარჯის ობიექტის დამატება ხარჯის ობიექტის წაშლა ხარჯის ობიექტის მოძიება თარიღით, კატეგორიით",
+  "main": "app.js",
+  "bin": {
+    "expense-manager": "./app.js"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
